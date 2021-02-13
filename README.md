@@ -36,7 +36,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 * [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
 * [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** [23:07]
-* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=9IPn5Gk_OiM) by **Paolo Perrotta** [36:35]
+* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** [36:35]
 * [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** [43:46]
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]
@@ -45,6 +45,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46]
 * [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** [50:42]
 * [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** [1:07:57]
+* [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** [49:38]
 
 #### Object-Oriented Programming
 
@@ -93,14 +94,15 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
-* [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
+* [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
+* [The Lost Art Of Software Design](https://www.youtube.com/watch?v=XPSZC3mJRO0) by **Simon Brown** [46:15]
 
 #### Web Development
 
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37]
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
 * [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) by **Douglas Crockford** [01:00:52]
-* [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** [58:19]
+* [Introduction to Node.js](https://www.youtube.com/watch?v=M-sc73Y-zQA) by **Ryan Dahl** [58:19]
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** [4:17]
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** [29:22]
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** [36:30]
@@ -129,6 +131,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by **JB Rainsberger and Sandro Mancuso** [01:28:50]
 * [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger** [01:04:35]
 * [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** [01:04:23]
+* [Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg) by **Sandro Mancuso** [57:59]
 
 #### Methodologies
 
@@ -141,6 +144,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** [53:03]
 * [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** [54:55]
 * [Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring#) by **Michael Feathers** [52:02]
+* [It Is Not About Software Anymore](https://www.youtube.com/watch?v=X8iIRG9LA54) by **Mary Poppendieck** [01:06:38]
 
 #### Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
